@@ -1,27 +1,16 @@
 
 
-  ## 🔨Stack
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  ## 🔨 Programming Language
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
 
-  ## Tool 
+  ## FrameWork
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
+  ## DataBase
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
+  ## IDE
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 
-  - 깃헙에 들어가는 이모지
-
-gist.github.com/AliMD/3344523
-
-gmlwjd9405.github.io/2018/05/16/github-repository-description-icon.htmlgist.github.com/rxaviers/7360908
-
- 
-
-- 배지
-
-shields.io/
-
- 
-
-- 아이콘
-
-simpleicons.org/
-
+  ## Communication Tools
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
