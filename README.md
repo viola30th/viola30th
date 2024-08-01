@@ -11,7 +11,7 @@
 
   ## IDE
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ-#0000?style=flat-square&logo=IntelliJ&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ-#0000?style=flat-square&logo=intellijidea&logoColor=white"/>
 
   ## Communication Tools
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -21,8 +21,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgks9899)](https://solved.ac/wke1wke1)
 
-<br><br>
-<br><br>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viola30th&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
