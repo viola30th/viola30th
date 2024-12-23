@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=#800080&height=300&section=header&text=Welcome&fontSize=90)
 
+hi, i'm a software developer interested in
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+
+
   ## 🔨 Programming Language
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 
