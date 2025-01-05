@@ -6,16 +6,18 @@ i'm a software developer interested in
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-And My carrer so far
-- KakaoEnterprise SW Academy 5th 2024.09 - 2025.02 
-- Computer Engineering at Gachon University 2019.02 - 2025.02
+And my carrer so far
+- KakaoEnterprise SW Academy 5th <sub>2024.09 - 2025.02</sub> 
+- Computer Engineering at Gachon University <sub>2019.02 - 2025.02</sub>
 
 <br>
 
 working with 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" width="80" height="28" />
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" width="80" height="28" />
+<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" width="80" height="28" />
+
+
 
 <br><br>
 💻 Skills
@@ -36,8 +38,8 @@ working with
 
 📂 Projects
 ---
-- [DK Techin](https://github.com/AlphaKa2/Frontend) 2025.01 - 2025.02 (Frontend-Engineer)
-- [Ongil AI Blog Service](https://github.com/AlphaKa2/Frontend)  2024.09 - 2024.12(Frontend-Engineer)
+- [DK Techin](https://github.com/AlphaKa2/Frontend) <sub>2025.01 - 2025.02 (Frontend-Engineer)</sub>
+- [Ongil AI Blog Service](https://github.com/AlphaKa2/Frontend)  <sub>2024.09 - 2024.12(Frontend-Engineer)</sub>
 
 <br><br>
 
