@@ -31,7 +31,7 @@ working with
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-<br><br><br>
+<br><br>
 
 
 📂 Projects
@@ -39,7 +39,7 @@ working with
 - [DK Techin](https://github.com/AlphaKa2/Frontend) 2025.01 - 2025.02 (Frontend-Engineer)
 - [Ongil AI Blog Service](https://github.com/AlphaKa2/Frontend)  2024.09 - 2024.12(Frontend-Engineer)
 
-<br><br><br>
+<br><br>
 
 📩 Contacts
 ---
