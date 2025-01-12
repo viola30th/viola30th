@@ -38,7 +38,7 @@ working with
 
 📂 Projects
 ---
-- [Checkin](https://github.com/AlphaKa2/Frontend) <sub>2025.01 - 2025.02 (Frontend-Engineer)</sub>
+- [CheckIn](https://github.com/AlphaKa2/Frontend) <sub>2025.01 - 2025.02 (Frontend-Engineer)</sub>
 - [Ongil AI Blog Service](https://github.com/AlphaKa2/Frontend)  <sub>2024.09 - 2024.12(Frontend-Engineer)</sub>
 
 <br><br>
